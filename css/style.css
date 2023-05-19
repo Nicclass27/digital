@@ -84,11 +84,15 @@ header a:hover {
 /* showcase */
 #showcase {
     min-height: 400px;
-    background: url("../img/IMG-20210713-WA0003\ -\ Nazifat\ Roy.jpg") no-repeat;
+    background: url("../img/Untitled\ design\ \(20\).png") no-repeat;
     background-position: center;
     background-size: cover;
     text-align: center;
-    color: #ffffff;
+    color: #000000;
+}
+/* header color */
+#showcase .container h1{
+    color: #e8491d;
 }
 
 #showcase h1 {
@@ -154,12 +158,16 @@ aside#sidebar .quote input, aside#sidebar .quote textarea {
     padding: 5px;
 }
 
-/* main-col v 34 */
+/* main-col video 34 */
 article#main-col {
     float: left;
     width: 65%;
     
 }
+ul#services h3 {
+    color: #e8491d;
+}
+
 
 /* services */
 ul#services li {
